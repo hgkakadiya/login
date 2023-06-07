@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.Modal {
+  position: absolute;
+  top: 150px;
+  left: 400px;
+  right: 40px;
+  bottom: 40px;
+  height: 300px;
+  width: 40%;
+  background-color: rebeccapurple;
+}
+ 
+
+  .save{ margin-top: 50px;
+    
+
+  }
+
+  .savewidth{width: 150px; }
